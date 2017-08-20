@@ -1,0 +1,290 @@
+1503210753531	geckodriver	INFO	geckodriver 0.18.0
+1503210753533	geckodriver	INFO	Listening on 127.0.0.1:43275
+1503210754629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503210756390	Marionette	INFO	Listening on port 35571
+1503210756466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503210828538	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503210828918	Marionette	INFO	Ceased listening
+1503210986409	geckodriver	INFO	geckodriver 0.18.0
+1503210986412	geckodriver	INFO	Listening on 127.0.0.1:60775
+1503210987502	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503210989325	Marionette	INFO	Listening on port 34673
+1503210989444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503211052725	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1503211053019	Marionette	INFO	Ceased listening
+1503211057586	geckodriver	INFO	geckodriver 0.18.0
+1503211057589	geckodriver	INFO	Listening on 127.0.0.1:50427
+1503211058802	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503211061901	Marionette	INFO	Listening on port 43621
+1503211062001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503211596034	geckodriver	INFO	geckodriver 0.18.0
+1503211596038	geckodriver	INFO	Listening on 127.0.0.1:39999
+1503211597124	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503211598889	Marionette	INFO	Listening on port 43425
+1503211598957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503211621795	Marionette	INFO	Ceased listening
+1503211623494	geckodriver	INFO	geckodriver 0.18.0
+1503211623496	geckodriver	INFO	Listening on 127.0.0.1:38189
+1503211644475	geckodriver	INFO	geckodriver 0.18.0
+1503211644477	geckodriver	INFO	Listening on 127.0.0.1:51279
+1503211645562	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503211647284	Marionette	INFO	Listening on port 38657
+1503211647396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503211663341	Marionette	INFO	Ceased listening
+1503211835692	geckodriver	INFO	geckodriver 0.18.0
+1503211835694	geckodriver	INFO	Listening on 127.0.0.1:43719
+1503211836781	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503211838458	Marionette	INFO	Listening on port 45189
+1503211838515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503211854386	Marionette	INFO	Ceased listening
+1503212172957	geckodriver	INFO	geckodriver 0.18.0
+1503212172959	geckodriver	INFO	Listening on 127.0.0.1:45049
+1503212174047	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212175803	Marionette	INFO	Listening on port 40729
+1503212175890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503212255403	geckodriver	INFO	geckodriver 0.18.0
+1503212255406	geckodriver	INFO	Listening on 127.0.0.1:37501
+1503212256493	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212258246	Marionette	INFO	Listening on port 35721
+1503212258337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503212311419	Marionette	INFO	Ceased listening
+1503212313700	geckodriver	INFO	geckodriver 0.18.0
+1503212313703	geckodriver	INFO	Listening on 127.0.0.1:45917
+1503212314797	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212316429	Marionette	INFO	Listening on port 40963
+1503212316530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+1503212352992	Marionette	INFO	Ceased listening
+1503212364303	geckodriver	INFO	geckodriver 0.18.0
+1503212364305	geckodriver	INFO	Listening on 127.0.0.1:60463
+1503212365396	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212367010	Marionette	INFO	Listening on port 38827
+1503212367123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1503212415295	Marionette	INFO	Ceased listening
+1503212785463	geckodriver	INFO	geckodriver 0.18.0
+1503212785466	geckodriver	INFO	Listening on 127.0.0.1:42239
+1503212786559	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212788579	Marionette	INFO	Listening on port 45777
+1503212788699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503212842074	Marionette	INFO	Ceased listening
+1503212893445	geckodriver	INFO	geckodriver 0.18.0
+1503212893448	geckodriver	INFO	Listening on 127.0.0.1:42515
+1503212894535	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212896246	Marionette	INFO	Listening on port 36219
+1503212896366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503212971935	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503212972080	Marionette	INFO	Ceased listening
+1503212995567	geckodriver	INFO	geckodriver 0.18.0
+1503212995570	geckodriver	INFO	Listening on 127.0.0.1:33755
+1503212996662	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503212998402	Marionette	INFO	Listening on port 45261
+1503212998505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503213027613	Marionette	INFO	Ceased listening
+1503213083283	geckodriver	INFO	geckodriver 0.18.0
+1503213083285	geckodriver	INFO	Listening on 127.0.0.1:41977
+1503213084373	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503213086056	Marionette	INFO	Listening on port 41193
+1503213086122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503213155901	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1503213155908	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503213196619	Marionette	INFO	Ceased listening
+1503213836020	geckodriver	INFO	geckodriver 0.18.0
+1503213836023	geckodriver	INFO	Listening on 127.0.0.1:41161
+1503213837130	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503213839134	Marionette	INFO	Listening on port 42855
+1503213839210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503213873605	Marionette	INFO	Ceased listening
+1503213903839	geckodriver	INFO	geckodriver 0.18.0
+1503213903841	geckodriver	INFO	Listening on 127.0.0.1:55195
+1503213904928	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503213906570	Marionette	INFO	Listening on port 44097
+1503213906658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1503214076334	Marionette	INFO	Ceased listening
+1503214191550	geckodriver	INFO	geckodriver 0.18.0
+1503214191553	geckodriver	INFO	Listening on 127.0.0.1:45305
+1503214192639	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214194302	Marionette	INFO	Listening on port 41663
+1503214194371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503214217323	Marionette	INFO	Ceased listening
+1503214279628	geckodriver	INFO	geckodriver 0.18.0
+1503214279630	geckodriver	INFO	Listening on 127.0.0.1:36445
+1503214280722	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214282398	Marionette	INFO	Listening on port 37841
+1503214282464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+1503214336177	Marionette	INFO	Ceased listening
+1503214352291	geckodriver	INFO	geckodriver 0.18.0
+1503214352294	geckodriver	INFO	Listening on 127.0.0.1:36429
+1503214353379	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214354981	Marionette	INFO	Listening on port 45529
+1503214355041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+1503214435636	Marionette	INFO	Ceased listening
+1503214438484	geckodriver	INFO	geckodriver 0.18.0
+1503214438486	geckodriver	INFO	Listening on 127.0.0.1:33009
+1503214439576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214441250	Marionette	INFO	Listening on port 35805
+1503214441308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503214455264	Marionette	INFO	Ceased listening
+1503214493651	geckodriver	INFO	geckodriver 0.18.0
+1503214493653	geckodriver	INFO	Listening on 127.0.0.1:47335
+1503214494741	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214496375	Marionette	INFO	Listening on port 37973
+1503214496476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+1503214662584	Marionette	INFO	Ceased listening
+1503214664733	geckodriver	INFO	geckodriver 0.18.0
+1503214664736	geckodriver	INFO	Listening on 127.0.0.1:55197
+1503214665822	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214667430	Marionette	INFO	Listening on port 33483
+1503214667548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503214684053	Marionette	INFO	Ceased listening
+1503214913163	geckodriver	INFO	geckodriver 0.18.0
+1503214913166	geckodriver	INFO	Listening on 127.0.0.1:33803
+1503214914252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214915942	Marionette	INFO	Listening on port 43825
+1503214915986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503214935870	Marionette	INFO	Ceased listening
+1503214962607	geckodriver	INFO	geckodriver 0.18.0
+1503214962609	geckodriver	INFO	Listening on 127.0.0.1:54729
+1503214963696	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503214965313	Marionette	INFO	Listening on port 32771
+1503214965428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503214987180	Marionette	INFO	Ceased listening
+1503215033314	geckodriver	INFO	geckodriver 0.18.0
+1503215033316	geckodriver	INFO	Listening on 127.0.0.1:54819
+1503215034403	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215036057	Marionette	INFO	Listening on port 33739
+1503215036139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+1503215088388	Marionette	INFO	Ceased listening
+1503215410493	geckodriver	INFO	geckodriver 0.18.0
+1503215410495	geckodriver	INFO	Listening on 127.0.0.1:49673
+1503215411582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215413199	Marionette	INFO	Listening on port 36039
+1503215413310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503215456350	Marionette	INFO	Ceased listening
+1503215501663	geckodriver	INFO	geckodriver 0.18.0
+1503215501665	geckodriver	INFO	Listening on 127.0.0.1:59879
+1503215502753	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215504390	Marionette	INFO	Listening on port 36947
+1503215504481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503215578953	geckodriver	INFO	geckodriver 0.18.0
+1503215578955	geckodriver	INFO	Listening on 127.0.0.1:53143
+1503215580193	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215581772	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503215582048	Marionette	INFO	Ceased listening
+1503215582500	Marionette	INFO	Listening on port 39773
+1503215582550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503215602586	Marionette	INFO	Ceased listening
+1503215613418	geckodriver	INFO	geckodriver 0.18.0
+1503215613420	geckodriver	INFO	Listening on 127.0.0.1:57475
+1503215614508	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215616139	Marionette	INFO	Listening on port 35007
+1503215616239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503215644885	Marionette	INFO	Ceased listening
+1503215700283	geckodriver	INFO	geckodriver 0.18.0
+1503215700285	geckodriver	INFO	Listening on 127.0.0.1:44005
+1503215701375	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215703016	Marionette	INFO	Listening on port 40021
+1503215703104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+1503215733515	geckodriver	INFO	geckodriver 0.18.0
+1503215733518	geckodriver	INFO	Listening on 127.0.0.1:50445
+1503215734617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215736354	Marionette	INFO	Listening on port 37989
+1503215736451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503215741116	Marionette	INFO	Ceased listening
+1503215764276	geckodriver	INFO	geckodriver 0.18.0
+1503215764278	geckodriver	INFO	Listening on 127.0.0.1:39615
+1503215765366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215767038	Marionette	INFO	Listening on port 33051
+1503215767113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503215781810	geckodriver	INFO	geckodriver 0.18.0
+1503215781813	geckodriver	INFO	Listening on 127.0.0.1:51707
+1503215782926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1503215787139	Marionette	INFO	Ceased listening
+1503215857509	geckodriver	INFO	geckodriver 0.18.0
+1503215857512	geckodriver	INFO	Listening on 127.0.0.1:36959
+1503215858617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503215860374	Marionette	INFO	Listening on port 43705
+1503215860476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+1503215992636	Marionette	INFO	Ceased listening
+1503216005249	geckodriver	INFO	geckodriver 0.18.0
+1503216005251	geckodriver	INFO	Listening on 127.0.0.1:51643
+1503216006339	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503216007947	Marionette	INFO	Listening on port 33693
+1503216008036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503216060447	Marionette	INFO	Ceased listening
+1503216062051	geckodriver	INFO	geckodriver 0.18.0
+1503216062054	geckodriver	INFO	Listening on 127.0.0.1:48887
+1503216063142	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503216064786	Marionette	INFO	Listening on port 43693
+1503216064875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503216084623	Marionette	INFO	Ceased listening
+1503216091866	geckodriver	INFO	geckodriver 0.18.0
+1503216091868	geckodriver	INFO	Listening on 127.0.0.1:42749
+1503216092953	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503216095044	Marionette	INFO	Listening on port 40301
+1503216095117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503216125399	Marionette	INFO	Ceased listening
+1503216163969	geckodriver	INFO	geckodriver 0.18.0
+1503216163972	geckodriver	INFO	Listening on 127.0.0.1:41303
+1503216165291	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503216168954	Marionette	INFO	Listening on port 35373
+1503216169093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+1503216241586	Marionette	INFO	Ceased listening
