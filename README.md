@@ -1,4 +1,6 @@
 **CLI controller that takes suggestions from gnoosic.com and 
 adds them to the spotify playlist of your choosing.**
 
-When prompted, enter one to three bands you like.
+~~~~$ python3.6 band1 band2 band3~~~~
+
+Will add gnoosic.com's recommendations to the spotify playlist of your choosing.
