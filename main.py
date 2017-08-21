@@ -16,9 +16,13 @@ if len(sys.argv) > 1:
     fave.send_keys(Keys.RETURN)
 
 idk_list = []
+for i in range(10):
+    time.sleep(10)
+    try:
+        driver.find_element_by_name('Rate00').click()
+    except TypeError:
+        print('We\'re done here!')
+print('loop exited')
+driver.find_element_by_xpath('/html/body/table/tbody/tr[3]/td/form/table/tbody/tr[4]/td/input')
 
-time.sleep(30)
-try:
-    driver.find_element_by_name('Rate00').click()
-except TypeError:
-    print('We\'re done here!')
+
