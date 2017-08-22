@@ -4,7 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import sys
 import time
 
-def gnoot_iter():
+def page_iter():
+    'cycles through the gnoosic.com pages'
     driver = webdriver.Firefox()
     driver.get('http://gnoosic.com/faves.php')
 
@@ -18,14 +19,14 @@ def gnoot_iter():
         fave.send_keys(Keys.RETURN)
 
     idk_list = []
-    for i in range(10):
+    for i in range(11):
         time.sleep(10)
         try:
             driver.find_element_by_name('Rate00').click()
         except NoSuchElementException:
             print('We\'re done here!')
     print('loop exited')
-    driver.find_element_by_xpath('/html/body/table/tbody/tr[3]/td/form/table/tbody/tr[4]/td/input')
+    driver.find_element_by_xpath('//tr[3]/td/form/table/tbody/tr[4]/td/input').click()
 
 if __name__ == '__main__':
-    gnoot_iter()
+    page_iter()

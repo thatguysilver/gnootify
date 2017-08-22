@@ -459,3 +459,76 @@ JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, 
 JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503365299053	Marionette	INFO	Ceased listening
+1503365974157	geckodriver	INFO	geckodriver 0.18.0
+1503365974160	geckodriver	INFO	Listening on 127.0.0.1:33055
+1503365975284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503365977345	Marionette	INFO	Listening on port 33541
+1503365977439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:28433): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: chrome://firebug/content/debugger/clients/clientCache.js, line 39: JavaScript 1.6's for-each-in loops are deprecated; consider using ES6 for-of instead
+1503366706473	geckodriver	INFO	geckodriver 0.18.0
+1503366706475	geckodriver	INFO	Listening on 127.0.0.1:58217
+1503366707582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503366709633	Marionette	INFO	Listening on port 43359
+1503366709735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1503367758419	Marionette	INFO	Ceased listening
+1503367766850	geckodriver	INFO	geckodriver 0.18.0
+1503367766852	geckodriver	INFO	Listening on 127.0.0.1:46893
+1503367767975	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503367770317	Marionette	INFO	Listening on port 38443
+1503367770430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503367978924	Marionette	INFO	Ceased listening
+1503368004501	Marionette	INFO	Ceased listening
+1503368109249	geckodriver	INFO	geckodriver 0.18.0
+1503368109251	geckodriver	INFO	Listening on 127.0.0.1:37505
+1503368110355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503368112322	Marionette	INFO	Listening on port 45897
+1503368112408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503368320118	Marionette	INFO	Ceased listening
+1503368335187	geckodriver	INFO	geckodriver 0.18.0
+1503368335189	geckodriver	INFO	Listening on 127.0.0.1:48491
+1503368336314	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503368338448	Marionette	INFO	Listening on port 41467
+1503368338559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503368492800	Marionette	INFO	Ceased listening
