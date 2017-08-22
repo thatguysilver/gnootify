@@ -433,3 +433,29 @@ Full message: TypeError: NetworkError when attempting to fetch resource.
 Full stack: 
 *************************
 1503306396181	Marionette	INFO	Ceased listening
+1503313837578	geckodriver	INFO	geckodriver 0.18.0
+1503313837580	geckodriver	INFO	Listening on 127.0.0.1:59869
+1503313838712	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503313840657	Marionette	INFO	Listening on port 42583
+1503313840776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://banners.esm1.net/adUtils/1.0.5/adUtils.js, line 20: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+JavaScript error: https://banners.esm1.net/adUtils/1.0.5/adUtils.js, line 20: SyntaxError: JSON.parse: unexpected non-whitespace character after JSON data at line 1 column 2 of the JSON data
+1503314055173	Marionette	INFO	Ceased listening
+1503364747981	geckodriver	INFO	geckodriver 0.18.0
+1503364747983	geckodriver	INFO	Listening on 127.0.0.1:46155
+1503364749110	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503364750835	Marionette	INFO	Listening on port 38405
+1503364750953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1503364830671	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1503364863525	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1503364863715	Marionette	INFO	Ceased listening
+1503365039510	geckodriver	INFO	geckodriver 0.18.0
+1503365039512	geckodriver	INFO	Listening on 127.0.0.1:35965
+1503365040674	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1503365043038	Marionette	INFO	Listening on port 45645
+1503365043129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.gnoosic.com/elements/objects/jquery-minified.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://secure.img-cdn.mediaplex.com/content/0/1551/47634/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
