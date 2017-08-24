@@ -1,3 +1,5 @@
+#/usr/bin/env python3
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup as bs
@@ -20,12 +22,11 @@ def gnoosic_iter():
         fave.send_keys(Keys.RETURN)
 
     idk_list = []
+    
     for i in range(11):
         time.sleep(10)
-        try:
-            driver.find_element_by_name('Rate00').click()
-        except NoSuchElementException:
-            print('something went wrong!')
+        driver.find_element_by_name('Rate00').click()
+
     print('loop exited')
 
     driver.find_element_by_xpath('//tr[3]/td/form/table/tbody/tr[4]/td/input').click()
@@ -39,9 +40,12 @@ def gnoosic_iter():
         print(text)
         idk_list.append(text)
 
-    return idk_list
+    driver.quit()
+
+    # return idk_list
 
 
 
 if __name__ == '__main__':
     gnoosic_iter()
+    

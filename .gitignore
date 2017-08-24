@@ -1,3 +1,5 @@
 /venv/
 geckodriver.log
 *swp
+spot.py
+/venv2/
